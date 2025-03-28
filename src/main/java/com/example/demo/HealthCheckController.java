@@ -10,6 +10,6 @@ public class HealthCheckController {
 
     @GetMapping
     public String healthCheck() {
-        return "HI THERE!";
+        return "HI THERE!, I am healthy";
     }
 }
