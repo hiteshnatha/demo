@@ -1,8 +1,11 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+# Node.js (Backend)
+node_modules/
+.env
+
+# Angular/React (Frontend)
+frontend/node_modules/
+frontend/dist/
+
+# Java/Spring Boot
+target/
+*.log
